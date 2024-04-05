@@ -50,7 +50,7 @@ message UserInfoResponse{
   int32 id=1;
   string passWord=2;
   string mobile=3;
-  string nickname=4;
+  string nickName=4;
   uint64 birthDay=5;
   string gender=6;
   int32 role=7;
